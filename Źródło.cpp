@@ -1,3 +1,5 @@
+//Gra jest o tematyce golebia. Sterowanie odbedzie sie za pomoca klawiszy wasd oraz celowanie za pomoca myszki.
+
 #include "SFML/Graphics.hpp"
 
 int main(int argc, char** argv) {
