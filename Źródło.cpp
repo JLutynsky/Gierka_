@@ -1,2 +1,2 @@
-//Moja Gra o go³êbiach
+//Moja Gra o go³êbiach.
 
