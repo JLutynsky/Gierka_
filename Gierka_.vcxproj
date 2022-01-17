@@ -142,7 +142,34 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Animacja.cpp" />
+    <ClCompile Include="Gracz.cpp" />
+    <ClCompile Include="Kolizja.cpp" />
+    <ClCompile Include="Kruk.cpp" />
+    <ClCompile Include="mapa.cpp" />
+    <ClCompile Include="Menu.cpp" />
+    <ClCompile Include="Pocisk.cpp" />
+    <ClCompile Include="Textbox.cpp" />
+    <ClCompile Include="Wave.cpp" />
     <ClCompile Include="Źródło.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="arial.ttf" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="sprity\map.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Animacja.h" />
+    <ClInclude Include="Gracz.h" />
+    <ClInclude Include="Kolizja.h" />
+    <ClInclude Include="Kruk.h" />
+    <ClInclude Include="mapa.h" />
+    <ClInclude Include="Menu.h" />
+    <ClInclude Include="Pocisk.h" />
+    <ClInclude Include="tekstury.h" />
+    <ClInclude Include="Textbox.h" />
+    <ClInclude Include="Wave.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
